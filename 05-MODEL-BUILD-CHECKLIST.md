@@ -11,16 +11,17 @@
 - هر مدل دارای گزینه «یا» است؛ برای تیک همان مدل **یک استک مشخص** انتخاب می‌شود. پیاده‌سازی گزینه دوم، پروژه تازه‌ای با دامنه مصوب است، نه تیک خودکار مدل جدید.
 - برای هر تکمیل، در زیر همان مورد `استک نهایی`، مسیر پروژه/commit، تست و خروجی قابل مشاهده را ثبت کنید؛ هیچ کارتابل وضعیت موازی نسازید.
 - مسیر آزمایش در محیط مستقل و شاخه پروژه است؛ کد سه‌بعدی Codex و `09-self-marketing-website/` تغییر نمی‌کنند. نصب، اتصال MCP جدید، هزینه، داده شخصی، انتشار/merge و تولید واقعی نیازمند تأیید جداگانه‌اند.
-- مراحل استاندارد همه موارد: [P00–P12](01-PROFESSIONAL-STAGES.md)؛ **توصیهٔ تاریخی M02 به‌عنوان پایلوت اول انتخاب نهایی نیست**. مالک اکنون M01 را فعال کرده و [پیشنهاد بازطراحی اصولی M01](models/M01-vanilla-multilingual/06-REBUILD-MASTER-ROADMAP-PROPOSAL.md) برای بررسی است. هیچ مدل دیگری با این تغییر ساخته محسوب نمی‌شود.
+- مراحل استاندارد همه موارد: [P00–P12](01-PROFESSIONAL-STAGES.md)؛ **توصیهٔ تاریخی M02 به‌عنوان پایلوت اول انتخاب نهایی نیست**. مالک اکنون M01 را فعال کرده و [پیشنهاد بازطراحی اصولی M01](https://github.com/mohammadrezanabizadeh41-png/DJMRN-ChatGPT-Website-M01/blob/main/06-REBUILD-MASTER-ROADMAP-PROPOSAL.md) برای بررسی است. هیچ مدل دیگری با این تغییر ساخته محسوب نمی‌شود.
 
 ## فهرست ترتیبی نمونه‌های قابل ساخت
 
 ### ساخت استاتیک و رابط سمت مرورگر
 
 - [ ] **01 — M01: HTML + CSS + JavaScript خالص**  
+  **مخزن اجرایی:** [DJMRN-ChatGPT-Website-M01](https://github.com/mohammadrezanabizadeh41-png/DJMRN-ChatGPT-Website-M01) — Private، جدا از تحقیقات مادر. وضعیت تکمیل همچنان [ ] است.  
   نمونه انتخاب‌شده برای ساخت: **سایت پنج‌زبانه حرفه‌ای خدمات دیجیتال + نمونه‌کار + کاتالوگ محصولات نمایشی** (fa/en/ar/tr/de، RTL/LTR، SEO، DEMO checkout).  
   معیار پایان: اجرای محلی پنج‌زبانه؛ **سازگاری موبایل، تبلت و لپ‌تاپ/دسکتاپ** با یک طراحی Responsive، RTL/LTR، portrait/landscape و touch/keyboard/mouse؛ تست صفحه/سبد آزمایشی، SEO/hreflang، دسترس‌پذیری، امنیت و commit قابل بازبینی.  
-  **پروژه فرعی:** [M01 README](models/M01-vanilla-multilingual/README.md) · [شواهد و نقشهٔ ۲۰ مرحله‌ای قبلی](models/M01-vanilla-multilingual/03-EXECUTION-ROADMAP.md) · [نقشهٔ راه بازسازی اصولیِ پیشنهادی از ابتدا (R00–R25)](models/M01-vanilla-multilingual/06-REBUILD-MASTER-ROADMAP-PROPOSAL.md).  
+  **پروژه فرعی:** [M01 README](https://github.com/mohammadrezanabizadeh41-png/DJMRN-ChatGPT-Website-M01/blob/main/README.md) · [شواهد و نقشهٔ ۲۰ مرحله‌ای قبلی](https://github.com/mohammadrezanabizadeh41-png/DJMRN-ChatGPT-Website-M01/blob/main/03-EXECUTION-ROADMAP.md) · [نقشهٔ راه بازسازی اصولیِ پیشنهادی از ابتدا (R00–R25)](https://github.com/mohammadrezanabizadeh41-png/DJMRN-ChatGPT-Website-M01/blob/main/06-REBUILD-MASTER-ROADMAP-PROPOSAL.md).  
   شواهد *جزئی و واقعی* (2026-11-22): **۲۰ مسیر HTML از ۳۰ مسیر DEMO ساخته شده‌اند** (Home/Services/Work/Catalog ×۵ زبان)، ۶ کیت و art اصیل SVG، **۴۰/۴۰ تست Node، ۴۰/۴۰ viewport و ۱۰ اسکن axe-core بدون violation گزارش‌شده**؛ GitHub source commit تاریخی `509401524d3d6dd388fe14a38060d1f652181344`. **M01 هنوز کامل نیست و تیک ندارد**؛ ثبت‌نام/SMTP/SMS/DB/admin/payments واقعی اجرا نشده‌اند. استک DEMO: vanilla HTML/CSS/JS؛ هدف نسخهٔ حقیقی ممکن است نیازمند ترکیب M21/M22 باشد. S03 پژوهشیِ شاخهٔ مادر در [01](01-PROFESSIONAL-STAGES.md) حفظ شده است.
 
 - [ ] **02 — M02: JavaScript + Vite + JSON**  

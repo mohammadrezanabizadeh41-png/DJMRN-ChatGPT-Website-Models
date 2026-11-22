@@ -34,3 +34,14 @@ For final acceptance record:
 ## 4. Post-publication canonical-path clarification (same migration; 2026-11-22)
 
 After the first verified 102-file publication, the M01 `README.md` and `tools/README.md` headers were corrected to refer explicitly to the **new** GitHub repository, its `main` branch and relative paths. This documentation-only patch does not rewrite past source objects, alter M01 runtime, delete old branches, or confer implementation PASS. The machine-readable blob receipt in `provenance/SOURCE-BLOB-RECEIPT.json` is refreshed after the correction to show the additional source-relative README difference. GitHub and laptop trees are verified again after the documentation patch.
+
+
+## 5. Separate execution authority for M01 — 2026-11-22
+
+- **Owner-requested split:** parent repository stays research/taxonomy/tools/master status registry for M01–M22. Each future implemented model receives its own implementation repository at activation, not 22 speculative repositories.
+- **M01 canonical implementation:** [DJMRN-ChatGPT-Website-M01](https://github.com/mohammadrezanabizadeh41-png/DJMRN-ChatGPT-Website-M01) — private, own `main`, current README revision at commit `d35f45d9507c2290a4fd3f45e8b8967b404cfad4`.
+- **Immutable source snapshot:** original parent `main` commit `d17c335a19c5b1914b643bf72caa8efd75456e46`; M01 source subtree `models/M01-vanilla-multilingual/` (69 blobs). Historical evidence in previous commits and in `provenance/SOURCE-BLOB-RECEIPT.json` remains historical and must not be treated as current live M01 implementation.
+- **Migration check:** 69/69 source paths exist in child repo root, 63 unchanged blob hashes, 6 initially adapted docs; child root README subsequently reconciled to the latest source clarification. No site runtime code changed in extraction.
+- **Parent after extraction:** Only a forwarding M01 README and references in this parent; 21 NOT STARTED model stubs remain. No unrelated 3D DJMRN / `09-self-marketing-website` code transferred.
+- **Restoration:** historical original tree is available at the immutable source commit above; no forced push or Git history rewrite.
+- **Status unchanged:** M01 is incomplete DEMO; M02–M22 NOT STARTED. Real accounts/orders/payments/deploy are not implemented or approved by this split.
