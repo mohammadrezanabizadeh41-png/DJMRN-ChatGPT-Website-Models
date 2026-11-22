@@ -19,6 +19,7 @@
 
 - [ ] **01 — M01: HTML + CSS + JavaScript خالص**  
   **مخزن اجرایی:** [DJMRN-ChatGPT-Website-M01](https://github.com/mohammadrezanabizadeh41-png/DJMRN-ChatGPT-Website-M01) — Private، جدا از تحقیقات مادر. وضعیت تکمیل همچنان [ ] است.  
+  **ممیزی جداسازی (2026-11-22):** ۶۸/۶۸ مسیر تاریخی M01 با مخزن فرزند تطبیق دارند؛ ۴۵/۴۵ آزمون Node و ۱۳۳/۱۳۳ کنترل مرورگر در نسخهٔ استخراج‌شده PASS شدند؛ شواهد QA محلی (۱۳۷ فایل + ۲ فایل مجوز/فونت) در [آرشیو خصوصی M01](https://github.com/mohammadrezanabizadeh41-png/DJMRN-ChatGPT-Website-M01/tree/main/qa-evidence) با ۱۳۹/۱۳۹ SHA-256 ثبت شده‌اند. این نتیجه فقط برای DEMO و تطبیق مهاجرت است و تیک M01 همچنان باز می‌ماند.  
   نمونه انتخاب‌شده برای ساخت: **سایت پنج‌زبانه حرفه‌ای خدمات دیجیتال + نمونه‌کار + کاتالوگ محصولات نمایشی** (fa/en/ar/tr/de، RTL/LTR، SEO، DEMO checkout).  
   معیار پایان: اجرای محلی پنج‌زبانه؛ **سازگاری موبایل، تبلت و لپ‌تاپ/دسکتاپ** با یک طراحی Responsive، RTL/LTR، portrait/landscape و touch/keyboard/mouse؛ تست صفحه/سبد آزمایشی، SEO/hreflang، دسترس‌پذیری، امنیت و commit قابل بازبینی.  
   **پروژه فرعی:** [M01 README](https://github.com/mohammadrezanabizadeh41-png/DJMRN-ChatGPT-Website-M01/blob/main/README.md) · [شواهد و نقشهٔ ۲۰ مرحله‌ای قبلی](https://github.com/mohammadrezanabizadeh41-png/DJMRN-ChatGPT-Website-M01/blob/main/03-EXECUTION-ROADMAP.md) · [نقشهٔ راه بازسازی اصولیِ پیشنهادی از ابتدا (R00–R25)](https://github.com/mohammadrezanabizadeh41-png/DJMRN-ChatGPT-Website-M01/blob/main/06-REBUILD-MASTER-ROADMAP-PROPOSAL.md).  
