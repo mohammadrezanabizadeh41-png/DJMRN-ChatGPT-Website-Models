@@ -1,0 +1,474 @@
+{
+    "former_path":  "10-chatgpt-light-sites/",
+    "records":  [
+                    {
+                        "path":  "01-PROFESSIONAL-STAGES.md",
+                        "migrated_blob":  "e5fd87d78a996715ee4848f2280f73763d1b8dc1",
+                        "source_blob":  "be56b397baa4f253f6af4f9ca6d7e3b35df41e3f",
+                        "byte_identical":  false
+                    },
+                    {
+                        "path":  "02-TOOLS-CATALOG.md",
+                        "migrated_blob":  "fdd7db0284fb2831268c4a9494af940d38910244",
+                        "source_blob":  "fdd7db0284fb2831268c4a9494af940d38910244",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "03-MCP-AND-TEST-GATES.md",
+                        "migrated_blob":  "80e94386f9395afdc55d1441f2eebc0a548ac430",
+                        "source_blob":  "80e94386f9395afdc55d1441f2eebc0a548ac430",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "04-WEBSITE-BUILD-MODELS.md",
+                        "migrated_blob":  "08f60c3579c8efb474d4674b03e4fcebc06a1e7c",
+                        "source_blob":  "08f60c3579c8efb474d4674b03e4fcebc06a1e7c",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "05-MODEL-BUILD-CHECKLIST.md",
+                        "migrated_blob":  "b353e206259783c9230e7d7367d2039ae92aa53b",
+                        "source_blob":  "67dfcb35e1869c8255c39259bc23fd1c403b0d81",
+                        "byte_identical":  false
+                    },
+                    {
+                        "path":  "README.md",
+                        "migrated_blob":  "3c87c1d3f79864d21f38b27bec1395b79cf1b10a",
+                        "source_blob":  "aa8b11810dbee88a4afc70df9402d08ed7603e92",
+                        "byte_identical":  false
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/01-RESEARCH-AND-BRIEF.md",
+                        "migrated_blob":  "3429a36d12446d292de2eb27d79a52403f8cbe34",
+                        "source_blob":  "3429a36d12446d292de2eb27d79a52403f8cbe34",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/02-STACK-TOOLS-AND-MCP.md",
+                        "migrated_blob":  "a05d8a6d8e15fb0fcf9ef9ae5b1f2636be607d62",
+                        "source_blob":  "a05d8a6d8e15fb0fcf9ef9ae5b1f2636be607d62",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/03-EXECUTION-ROADMAP.md",
+                        "migrated_blob":  "4ebcc55928c0caa37645a3593e2be711cf891d2e",
+                        "source_blob":  "4ebcc55928c0caa37645a3593e2be711cf891d2e",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/04-I18N-SEO-COMMERCE-SECURITY.md",
+                        "migrated_blob":  "f9a041d930fd1e200ebb9a2b686ca996581f86f0",
+                        "source_blob":  "f9a041d930fd1e200ebb9a2b686ca996581f86f0",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/05-QA-AND-HANDOFF.md",
+                        "migrated_blob":  "c7c225b24bd0a00496278530fb288eeadb1246d0",
+                        "source_blob":  "c7c225b24bd0a00496278530fb288eeadb1246d0",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/README.md",
+                        "migrated_blob":  "37f9c6049a812a4e1e46c1f2ee8aa94dabaced7f",
+                        "source_blob":  "37f9c6049a812a4e1e46c1f2ee8aa94dabaced7f",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/content/i18n.v1.json",
+                        "migrated_blob":  "4d4097e1a13e329f7d46fa27ee400ed9636f4e3f",
+                        "source_blob":  "4d4097e1a13e329f7d46fa27ee400ed9636f4e3f",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/design/S06-VISUAL-SYSTEM.md",
+                        "migrated_blob":  "c9d13e46ffe5c6f167cef5e879c2cb6d38aa8ee1",
+                        "source_blob":  "c9d13e46ffe5c6f167cef5e879c2cb6d38aa8ee1",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/design/nova-hero-original.svg",
+                        "migrated_blob":  "7f4617db128565fc37840144c700ae4b8db98b97",
+                        "source_blob":  "7f4617db128565fc37840144c700ae4b8db98b97",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/design/s06-responsive-proof.html",
+                        "migrated_blob":  "4683d32be38624bf7b407ecf8aae348fbefc7416",
+                        "source_blob":  "4683d32be38624bf7b407ecf8aae348fbefc7416",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/design/wireframe-desktop-1366.svg",
+                        "migrated_blob":  "d55bddc191f36761f5f990aa5cfabbc1b53a3d5e",
+                        "source_blob":  "d55bddc191f36761f5f990aa5cfabbc1b53a3d5e",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/design/wireframe-mobile-390.svg",
+                        "migrated_blob":  "ca12118f46b15101713714937ee17d4c79f283dd",
+                        "source_blob":  "ca12118f46b15101713714937ee17d4c79f283dd",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/design/wireframe-mobile-rtl-390.svg",
+                        "migrated_blob":  "363344fa93894f835b0cbe404e0ac594bbc39d2f",
+                        "source_blob":  "363344fa93894f835b0cbe404e0ac594bbc39d2f",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/design/wireframe-tablet-820.svg",
+                        "migrated_blob":  "7b1b5f5dd6a71353301e901135681054b74f8cfe",
+                        "source_blob":  "7b1b5f5dd6a71353301e901135681054b74f8cfe",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/scripts/home-sections.mjs",
+                        "migrated_blob":  "8758e1075c14e491fd618d125d658d7f859ac003",
+                        "source_blob":  "8758e1075c14e491fd618d125d658d7f859ac003",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/scripts/render-catalog-art.mjs",
+                        "migrated_blob":  "f89e85e04f71e1ebe8293bad2e192493a3c1799c",
+                        "source_blob":  "f89e85e04f71e1ebe8293bad2e192493a3c1799c",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/scripts/render-catalog.mjs",
+                        "migrated_blob":  "e0b109e9da61960aa0d82c75fcc3391918b466ec",
+                        "source_blob":  "e0b109e9da61960aa0d82c75fcc3391918b466ec",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/scripts/render-home-locales.mjs",
+                        "migrated_blob":  "c7ac5615eeedc2d90dc44253459d581accea627d",
+                        "source_blob":  "c7ac5615eeedc2d90dc44253459d581accea627d",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/scripts/render-service-work.mjs",
+                        "migrated_blob":  "1eadb9ff01aa0b4c677881c3ac1a3e36a27cd434",
+                        "source_blob":  "1eadb9ff01aa0b4c677881c3ac1a3e36a27cd434",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/scripts/serve-local.mjs",
+                        "migrated_blob":  "b048e4d001f3f97fcb1dd1c287f921977bfc56de",
+                        "source_blob":  "b048e4d001f3f97fcb1dd1c287f921977bfc56de",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/README.md",
+                        "migrated_blob":  "b482aa0b9a514318fdaf5894c33748931084f480",
+                        "source_blob":  "b482aa0b9a514318fdaf5894c33748931084f480",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/ar/catalog/index.html",
+                        "migrated_blob":  "843ec5f130cad022ce4fe2e03c89f5273ac077ec",
+                        "source_blob":  "843ec5f130cad022ce4fe2e03c89f5273ac077ec",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/ar/index.html",
+                        "migrated_blob":  "7b05e350ab6cabaf14263e9edad9398dac1c647f",
+                        "source_blob":  "7b05e350ab6cabaf14263e9edad9398dac1c647f",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/ar/services/index.html",
+                        "migrated_blob":  "22bdbd16ea214324cb514ef667106b79f5d165b0",
+                        "source_blob":  "22bdbd16ea214324cb514ef667106b79f5d165b0",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/ar/work/index.html",
+                        "migrated_blob":  "07a608d43fdaf9158e79e4133c89518363d35ff0",
+                        "source_blob":  "07a608d43fdaf9158e79e4133c89518363d35ff0",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/assets/css/base.css",
+                        "migrated_blob":  "e9bd622994ae0684db2790403a89442c330cb276",
+                        "source_blob":  "e9bd622994ae0684db2790403a89442c330cb276",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/assets/css/components.css",
+                        "migrated_blob":  "9e1ec2d6f0be51b1042084893ab977bc1267b3ad",
+                        "source_blob":  "9e1ec2d6f0be51b1042084893ab977bc1267b3ad",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/assets/css/home.css",
+                        "migrated_blob":  "d15e00a1a8876d8bee7adcd1861bb5017d9bb8f3",
+                        "source_blob":  "d15e00a1a8876d8bee7adcd1861bb5017d9bb8f3",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/assets/css/s11-detail.css",
+                        "migrated_blob":  "a5e90ef5a23549897f2133317597311e47f3ab16",
+                        "source_blob":  "a5e90ef5a23549897f2133317597311e47f3ab16",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/assets/css/s12-catalog.css",
+                        "migrated_blob":  "c2ece5ab27feb7aa898b07627d164a8eb4181bd9",
+                        "source_blob":  "c2ece5ab27feb7aa898b07627d164a8eb4181bd9",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/assets/css/tokens.css",
+                        "migrated_blob":  "26362da4cd7a7d9cd39b044775db2743ecbbb2fa",
+                        "source_blob":  "26362da4cd7a7d9cd39b044775db2743ecbbb2fa",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/assets/img/nova-hero-original.svg",
+                        "migrated_blob":  "7f4617db128565fc37840144c700ae4b8db98b97",
+                        "source_blob":  "7f4617db128565fc37840144c700ae4b8db98b97",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/assets/img/s11-corporate-presence.svg",
+                        "migrated_blob":  "f739c745537f6ea16e12dd0cece0fa0f450a0660",
+                        "source_blob":  "f739c745537f6ea16e12dd0cece0fa0f450a0660",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/assets/img/s11-creative-portfolio.svg",
+                        "migrated_blob":  "f4bb241055e086c2058824d4400266dd537e65b3",
+                        "source_blob":  "f4bb241055e086c2058824d4400266dd537e65b3",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/assets/img/s11-digital-catalog.svg",
+                        "migrated_blob":  "5b3bf2d92f598c9d95ef788be4a74abc622478c8",
+                        "source_blob":  "5b3bf2d92f598c9d95ef788be4a74abc622478c8",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/assets/img/s12-company-site-kit.svg",
+                        "migrated_blob":  "c9c4375d09b1e2a23bd6de07599415d83cbb41b3",
+                        "source_blob":  "c9c4375d09b1e2a23bd6de07599415d83cbb41b3",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/assets/img/s12-landing-kit.svg",
+                        "migrated_blob":  "9a484139d1c48e32c0004ec9dd293625e3ef63dd",
+                        "source_blob":  "9a484139d1c48e32c0004ec9dd293625e3ef63dd",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/assets/img/s12-multilingual-ui-kit.svg",
+                        "migrated_blob":  "0f2fc75bd1a43d08055e07a39586bf95d2cca11a",
+                        "source_blob":  "0f2fc75bd1a43d08055e07a39586bf95d2cca11a",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/assets/img/s12-performance-check-pack.svg",
+                        "migrated_blob":  "0cfd75e62dee73ad7b4f3ad2c6d413ad570a6f4e",
+                        "source_blob":  "0cfd75e62dee73ad7b4f3ad2c6d413ad570a6f4e",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/assets/img/s12-portfolio-kit.svg",
+                        "migrated_blob":  "8e0b0c7d87128ab389486a845f1ff5bdb9e5e01c",
+                        "source_blob":  "8e0b0c7d87128ab389486a845f1ff5bdb9e5e01c",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/assets/img/s12-seo-starter-audit.svg",
+                        "migrated_blob":  "32bc3a54eb1073a719cd392152db6e18bee85849",
+                        "source_blob":  "32bc3a54eb1073a719cd392152db6e18bee85849",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/assets/js/catalog.js",
+                        "migrated_blob":  "5cc3b0d1ce53ca2d8f9668085541287420ef6cfb",
+                        "source_blob":  "5cc3b0d1ce53ca2d8f9668085541287420ef6cfb",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/assets/js/main.js",
+                        "migrated_blob":  "545a4096c0b765b198d81d6c2907b98fe1cbfb00",
+                        "source_blob":  "545a4096c0b765b198d81d6c2907b98fe1cbfb00",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/assets/js/nav.js",
+                        "migrated_blob":  "4f331578bccda20bb03c3c0681d5ab534c2011f9",
+                        "source_blob":  "4f331578bccda20bb03c3c0681d5ab534c2011f9",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/de/catalog/index.html",
+                        "migrated_blob":  "a2cf6c2893c432098e66c713a3cbd5561a284974",
+                        "source_blob":  "a2cf6c2893c432098e66c713a3cbd5561a284974",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/de/index.html",
+                        "migrated_blob":  "1194585fd074d029ad196270577fd489e43e6c77",
+                        "source_blob":  "1194585fd074d029ad196270577fd489e43e6c77",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/de/services/index.html",
+                        "migrated_blob":  "294c6c22aff76b2adf18e13266f07c7674df3f74",
+                        "source_blob":  "294c6c22aff76b2adf18e13266f07c7674df3f74",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/de/work/index.html",
+                        "migrated_blob":  "27340b442d712d153db4a361d73fd083956fee06",
+                        "source_blob":  "27340b442d712d153db4a361d73fd083956fee06",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/en/catalog/index.html",
+                        "migrated_blob":  "4d6ab781eb6ab5a2e8114df9ca21a1bc4c76e064",
+                        "source_blob":  "4d6ab781eb6ab5a2e8114df9ca21a1bc4c76e064",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/en/index.html",
+                        "migrated_blob":  "f50f0b333cc691184108d893e7692f015b24a4a9",
+                        "source_blob":  "f50f0b333cc691184108d893e7692f015b24a4a9",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/en/services/index.html",
+                        "migrated_blob":  "278f5e86a95b2b4d2d35f80719f7e1fabae1f761",
+                        "source_blob":  "278f5e86a95b2b4d2d35f80719f7e1fabae1f761",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/en/work/index.html",
+                        "migrated_blob":  "890f084112b0b1a63f553b67bf08d896025efcd1",
+                        "source_blob":  "890f084112b0b1a63f553b67bf08d896025efcd1",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/fa/catalog/index.html",
+                        "migrated_blob":  "49c6bd5b88c9133720af838a674830d15721b96d",
+                        "source_blob":  "49c6bd5b88c9133720af838a674830d15721b96d",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/fa/index.html",
+                        "migrated_blob":  "61888a8d160afd670b092704d006ca5e36d74e51",
+                        "source_blob":  "61888a8d160afd670b092704d006ca5e36d74e51",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/fa/services/index.html",
+                        "migrated_blob":  "396d3b79d7583cf6e7e38ff10680f9f3108e9a7c",
+                        "source_blob":  "396d3b79d7583cf6e7e38ff10680f9f3108e9a7c",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/fa/work/index.html",
+                        "migrated_blob":  "ecc71d1e4691e12aade6085dd2c6eb8a3bbfbe7b",
+                        "source_blob":  "ecc71d1e4691e12aade6085dd2c6eb8a3bbfbe7b",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/favicon.svg",
+                        "migrated_blob":  "ae04d4c428aad222caac2eb1219501c896aa5650",
+                        "source_blob":  "ae04d4c428aad222caac2eb1219501c896aa5650",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/index.html",
+                        "migrated_blob":  "66e450049e8aebd85cb09a7fa9af6141bcd95cef",
+                        "source_blob":  "66e450049e8aebd85cb09a7fa9af6141bcd95cef",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/tr/catalog/index.html",
+                        "migrated_blob":  "f651acb99acca2be9749401c1ba181a8e7ed310a",
+                        "source_blob":  "f651acb99acca2be9749401c1ba181a8e7ed310a",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/tr/index.html",
+                        "migrated_blob":  "8bee22c33b3237dda64eb8b82aecfa382ecbbaf3",
+                        "source_blob":  "8bee22c33b3237dda64eb8b82aecfa382ecbbaf3",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/tr/services/index.html",
+                        "migrated_blob":  "b6d9ed71f9469265938a1ca24cdc9562fb27ca89",
+                        "source_blob":  "b6d9ed71f9469265938a1ca24cdc9562fb27ca89",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/site/tr/work/index.html",
+                        "migrated_blob":  "8aa27867c7259ec0cb4076fd602ce765ed8f5784",
+                        "source_blob":  "8aa27867c7259ec0cb4076fd602ce765ed8f5784",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/tests/s08-five-locales.test.mjs",
+                        "migrated_blob":  "ac44724d12a2b753a69a79b1115c0350b41cf8aa",
+                        "source_blob":  "ac44724d12a2b753a69a79b1115c0350b41cf8aa",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/tests/s08-static.test.mjs",
+                        "migrated_blob":  "6881eeb760c0fd58672d94136b6d0421ad5fae8b",
+                        "source_blob":  "6881eeb760c0fd58672d94136b6d0421ad5fae8b",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/tests/s09-navigation.test.mjs",
+                        "migrated_blob":  "e7a519801d5e17a7b84bb31cbcace7ce1bb518e9",
+                        "source_blob":  "e7a519801d5e17a7b84bb31cbcace7ce1bb518e9",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/tests/s10-home.test.mjs",
+                        "migrated_blob":  "b7f74087d6b758839ef19a1ccd1b8449d81dfcef",
+                        "source_blob":  "b7f74087d6b758839ef19a1ccd1b8449d81dfcef",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/tests/s11-service-work.test.mjs",
+                        "migrated_blob":  "317a207b6b0d50e6aada04727c02903a33f8257f",
+                        "source_blob":  "317a207b6b0d50e6aada04727c02903a33f8257f",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "models/M01-vanilla-multilingual/tests/s12-catalog.test.mjs",
+                        "migrated_blob":  "d536c2a86ae5ec1ac7ab918c7653e6bee62eabe6",
+                        "source_blob":  "d536c2a86ae5ec1ac7ab918c7653e6bee62eabe6",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "tools/LEGACY-CROSSWALK.md",
+                        "migrated_blob":  "883f04b102c22865e1812ebf2f972c1cd4d7bbde",
+                        "source_blob":  "883f04b102c22865e1812ebf2f972c1cd4d7bbde",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "tools/README.md",
+                        "migrated_blob":  "0d4ee869c86b0c16b96516e5cce46d075b2c8b11",
+                        "source_blob":  "0d4ee869c86b0c16b96516e5cce46d075b2c8b11",
+                        "byte_identical":  true
+                    },
+                    {
+                        "path":  "tools/REGISTRY.md",
+                        "migrated_blob":  "6399164e9840a4b446acf9bdbc4ceab744eeadb7",
+                        "source_blob":  "6399164e9840a4b446acf9bdbc4ceab744eeadb7",
+                        "byte_identical":  true
+                    }
+                ],
+    "source_repository":  "mohammadrezanabizadeh41-png/DJMRN-Freelance-Operations",
+    "source_commit":  "509401524d3d6dd388fe14a38060d1f652181344",
+    "source_branch":  "project/light-sites-m01-vanilla-20261121",
+    "schema":  1,
+    "source_files":  77,
+    "documented_changes":  3,
+    "byte_identical_after_document_update":  74
+}

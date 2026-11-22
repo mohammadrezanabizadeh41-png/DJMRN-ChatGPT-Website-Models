@@ -1,0 +1,22 @@
+# 22-model lab — only public, reproducible source and documentation
+node_modules/
+dist/
+build/
+coverage/
+.playwright/
+test-results/
+playwright-report/
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.key
+*.secret
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+__pycache__/
+.pytest_cache/
