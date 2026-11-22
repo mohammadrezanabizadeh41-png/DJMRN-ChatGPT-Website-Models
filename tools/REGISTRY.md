@@ -205,7 +205,7 @@ https://github.com/vitejs/vite · https://github.com/withastro/astro · https://
 
 ## N — M01 verified local tool reconciliation (2026-11-22, read-only inventory)
 
-**Provenance and authority:** Read-only inspection of DJMRN-LAPTOP with Bridgerator: git status, Windows executable discovery, installed-app registry, global npm list and Node package resolution from the existing M01-Prep/qa directory. This dated verification supersedes older unverified installation labels above; it does not retroactively mark unexecuted tests PASS. This remains the project-wide canonical inventory; stage-specific usage belongs to the [M01 selected tool profile](../models/M01-vanilla-multilingual/02-STACK-TOOLS-AND-MCP.md).
+**Provenance and authority:** Read-only inspection of DJMRN-LAPTOP with Bridgerator: git status, Windows executable discovery, installed-app registry, global npm list and Node package resolution from the existing M01-Prep/qa directory. This dated verification supersedes older unverified installation labels above; it does not retroactively mark unexecuted tests PASS. This remains the project-wide canonical inventory; stage-specific usage belongs to the [M01 selected tool profile](https://github.com/mohammadrezanabizadeh41-png/DJMRN-ChatGPT-Website-M01/blob/main/02-STACK-TOOLS-AND-MCP.md).
 
 | Tool | Verified status in this inventory | Placement and decision for M01 |
 |---|---|---|
