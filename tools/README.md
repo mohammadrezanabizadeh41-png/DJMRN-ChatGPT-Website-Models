@@ -1,5 +1,5 @@
 # Tools — ابزارهای پروژه مستقل ساخت سایت سبک با ChatGPT
-**Project:** DJMRN-CHATGPT-LIGHT-SITES-001 | **Directory:** `10-chatgpt-light-sites/tools/`  
+**Project:** DJMRN-CHATGPT-LIGHT-SITES-001 | **Canonical directory:** `tools/` in [DJMRN-ChatGPT-Website-Models](https://github.com/mohammadrezanabizadeh41-png/DJMRN-ChatGPT-Website-Models). Historical source path: `DJMRN-Freelance-Operations/10-chatgpt-light-sites/tools/`.  
 **Status:** Documentation/reconciliation complete, not software installation.  
 **Main project:** [../README.md](../README.md) | [Stages](../01-PROFESSIONAL-STAGES.md) | [22 build models](../04-WEBSITE-BUILD-MODELS.md).
 

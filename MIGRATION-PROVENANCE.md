@@ -30,3 +30,7 @@ For final acceptance record:
 - Verify public GitHub Raw/tree matches local generated Git tree, and keep old source unchanged.
 
 **Status meaning:** migration PASS is about *content*, not execution of ۲۲ models or delivery of the real production website.
+
+## 4. Post-publication canonical-path clarification (same migration; 2026-11-22)
+
+After the first verified 102-file publication, the M01 `README.md` and `tools/README.md` headers were corrected to refer explicitly to the **new** GitHub repository, its `main` branch and relative paths. This documentation-only patch does not rewrite past source objects, alter M01 runtime, delete old branches, or confer implementation PASS. The machine-readable blob receipt in `provenance/SOURCE-BLOB-RECEIPT.json` is refreshed after the correction to show the additional source-relative README difference. GitHub and laptop trees are verified again after the documentation patch.

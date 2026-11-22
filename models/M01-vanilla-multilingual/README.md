@@ -2,26 +2,28 @@
 
 **ID:** DJMRN-LIGHT-SITES-M01-001  
 **Created:** 2026-11-21  
-**Project branch:** `project/light-sites-m01-vanilla-20261121`  
-**Base branch:** `project/chatgpt-light-sites-20261121`  
-**Path:** `10-chatgpt-light-sites/models/M01-vanilla-multilingual/`  
+**Canonical repository/branch:** [DJMRN-ChatGPT-Website-Models](https://github.com/mohammadrezanabizadeh41-png/DJMRN-ChatGPT-Website-Models) / `main`  
+**Historical source branches:** `DJMRN-Freelance-Operations@project/light-sites-m01-vanilla-20261121` and `@project/chatgpt-light-sites-20261121`  
+**Canonical path:** `models/M01-vanilla-multilingual/`  
 **Project stage (2026-11-22):** **S01–S12 PASS for the static DEMO**, 20/30 local routes built; **S12A mandatory + I00–I20 infrastructure readiness PLANNED**, then S13–S20 + local S14A. **Production membership/admin/order track P00–P18 RESEARCHED/PLANNED, NOT IMPLEMENTED.** No signup, SMS, real order/payment, production database or deployment.
 **Upstream model:** [parent build checklist, M01 is unchecked](../../05-MODEL-BUILD-CHECKLIST.md).  
-**Isolation:** No changes to `main`, parent project branch, or `09-self-marketing-website/` heavy Codex/3D site.
+**Isolation:** This repository has its own `main` branch. The original GitHub repository, its main branch, its 09-self-marketing-website/ project and its historical M01 branches were not rewritten or deleted during migration.
 
 ## Concept chosen for professional portfolio sample
-**Provisional fictional identity:** NOVA Atelier — multilingual digital services studio with visual portfolio, catalog of **demo** services/products, interactive demo cart and explicit mock checkout. Sample should look like a plausible client-facing premium website but must be clearly labeled a fictional demonstration. **No real merchant, bank gateway, order processing, account, payment, collection of PII or production hosting.**
+**Provisional fictional identity:** NOVA Atelier — multilingual digital services studio with visual portfolio, catalog of **demo** services/products, planned interactive demo cart and explicit mock checkout. Sample should look like a plausible client-facing premium website but must be clearly labeled a fictional demonstration. **No real merchant, bank gateway, order processing, account, payment, collection of PII or production hosting.**
 
 **Responsive display target (required):** **Mobile + Tablet + Laptop/Desktop** using one fluid responsive codebase; 1920px wide-screen is an additional check, not a fourth separately built version. Test both portrait/landscape where relevant, touch/mouse/keyboard, RTL/LTR and zoom/reflow. See [04 responsive contract](04-I18N-SEO-COMMERCE-SECURITY.md), [03 updated 20-stage roadmap](03-EXECUTION-ROADMAP.md), [05 device QA](05-QA-AND-HANDOFF.md).  
 **Languages:** فارسی (`fa`, RTL), English (`en`, LTR), العربية (`ar`, RTL), Türkçe (`tr`, LTR), Deutsch (`de`, LTR).  
-**Architecture:** semantic crawlable `HTML` + modern `CSS` + modular `JavaScript` only. **No Vite, React, WordPress, Next.js, backend or database** in M01 runtime. Existing Node/Git/Bridgerator are development/test executors, not website runtime dependencies.
+**Current DEMO architecture:** semantic crawlable `HTML` + modern `CSS` + modular `JavaScript`; **no real backend or database in the existing static demo**. Existing Node/Git/Bridgerator are development/test executors. The owner's future real account/order/admin site requires an approved backend and may be classified as a **M01-front-end + M21/M22** composition (or a different reviewed model); see proposed [R00–R25 roadmap](06-REBUILD-MASTER-ROADMAP-PROPOSAL.md).
 
 ## Read in order — one decision contract per topic
 1. **[01-RESEARCH-AND-BRIEF.md](01-RESEARCH-AND-BRIEF.md):** where pure HTML sites fit, why this sample was selected, 2026 visually modern direction, five languages, page plan, alternatives and real versus mock boundary.
 2. **[02-STACK-TOOLS-AND-MCP.md](02-STACK-TOOLS-AND-MCP.md):** professional tool stack drawn from parent registry, MCP vs deterministic CLI, local install status, fonts/icons/license, optional Playwright/Lighthouse/axe.
-3. **[03-EXECUTION-ROADMAP.md](03-EXECUTION-ROADMAP.md):** **20 sequential checkable stages S01–S20** with owner-facing outcomes, selected tool, real test/exit condition, recordable evidence and stop rules. This is the **only working step checklist** for M01.
+3. **[03-EXECUTION-ROADMAP.md](03-EXECUTION-ROADMAP.md):** **20 sequential checkable stages S01–S20** with owner-facing outcomes, selected tool, real test/exit condition, recordable evidence and stop rules. This preserves the **historical S-stage execution/evidence checklist** for M01 until the new [R00–R25 rebuild proposal](06-REBUILD-MASTER-ROADMAP-PROPOSAL.md) receives explicit owner approval; do not treat a proposed stage as already completed.
 4. **[04-I18N-SEO-COMMERCE-SECURITY.md](04-I18N-SEO-COMMERCE-SECURITY.md):** URL/lang/dir/hreflang/canonical/sitemap, static directory tree, demo payment limitation, privacy and CSP rules, performance and a11y targets.
-5. **[05-QA-AND-HANDOFF.md](05-QA-AND-HANDOFF.md):** **30 planned QA gates T01–T30**, 5×6 locale route matrix, browser/mobile/keyboard/security failure tests and documented handoff.
+5. **[05-QA-AND-HANDOFF.md](05-QA-AND-HANDOFF.md):** **existing QA gates T01–T55** (the newer ones are only planned), 5×6 locale route matrix, browser/mobile/keyboard/security failure tests and documented handoff.
+
+6. **[06-REBUILD-MASTER-ROADMAP-PROPOSAL.md](06-REBUILD-MASTER-ROADMAP-PROPOSAL.md):** fresh product-first rebuild proposal, 26 stages R00–R25. No R stage is approved/passed yet; the earlier S01–S12 evidence remains usable but not a constraint on future architecture.
 
 **Parent project references, reused rather than duplicated:** [tools/REGISTRY.md](../../tools/REGISTRY.md) · [22 building methods](../../04-WEBSITE-BUILD-MODELS.md) · [overall stages](../../01-PROFESSIONAL-STAGES.md).
 

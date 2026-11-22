@@ -69,9 +69,9 @@
                     },
                     {
                         "path":  "models/M01-vanilla-multilingual/README.md",
-                        "migrated_blob":  "37f9c6049a812a4e1e46c1f2ee8aa94dabaced7f",
+                        "migrated_blob":  "8b03ef1a5b47e7b831997bbe6c485f7de6642cbd",
                         "source_blob":  "37f9c6049a812a4e1e46c1f2ee8aa94dabaced7f",
-                        "byte_identical":  true
+                        "byte_identical":  false
                     },
                     {
                         "path":  "models/M01-vanilla-multilingual/content/i18n.v1.json",
@@ -453,9 +453,9 @@
                     },
                     {
                         "path":  "tools/README.md",
-                        "migrated_blob":  "0d4ee869c86b0c16b96516e5cce46d075b2c8b11",
+                        "migrated_blob":  "318ad023127af61c4ec6cf2b85f3a9b2b6e90718",
                         "source_blob":  "0d4ee869c86b0c16b96516e5cce46d075b2c8b11",
-                        "byte_identical":  true
+                        "byte_identical":  false
                     },
                     {
                         "path":  "tools/REGISTRY.md",
@@ -466,9 +466,9 @@
                 ],
     "source_repository":  "mohammadrezanabizadeh41-png/DJMRN-Freelance-Operations",
     "source_commit":  "509401524d3d6dd388fe14a38060d1f652181344",
+    "byte_identical_after_document_updates":  72,
     "source_branch":  "project/light-sites-m01-vanilla-20261121",
-    "schema":  1,
+    "schema":  2,
     "source_files":  77,
-    "documented_changes":  3,
-    "byte_identical_after_document_update":  74
+    "documented_changes":  5
 }
