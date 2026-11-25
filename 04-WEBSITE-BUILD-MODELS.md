@@ -8,7 +8,8 @@
 
 **Counts in THIS reviewed shortlist, not a market census:**
 - **6 engineering families**
-- **1 owner-approved specialized product entry (M23 — CRM, 2026-11-26)**; not a new core architecture. Total catalog entries: 23; technical recipes remain 22.
+- **11 owner-approved specialized product entries (M23–M33)**; not technical architectures.
+- **11 supplementary technical entries (M34–M44)**; alternative recipes and cross-cutting patterns, not 11 mutually exclusive architectures. Original 22 base recipes and six families remain unchanged. Total catalog entries: 44 (33 technical entries + 11 product entries). Owner approved catalog inclusion 2026-11-26; no implementation, stack or provider selection.
 - **22 concrete build recipes (M01–M22)**, several sharing components or alternative implementations; these are not 22 mutually exclusive global standards.
 - Family A 5 models, B 3, C 7, D 2, E 3, F 2. Total 5+3+7+2+3+2 = 22.
 - SaaS-only hosted builders (Shopify/Wix/Webflow), PWA packaging, drag-and-drop editing, MCP bridges, and deployment choices are **orthogonal choices**, not additional core architectures counted in 22.
@@ -70,6 +71,37 @@ Each row is a concrete starting composition. Score **Effort 1–5** is OUR compa
 | **M23** | Professional CRM Web Application — مدیریت ارتباط با مشتریان | M06/M07/M08/M21/M22 may be compared; existing CRM platforms may be evaluated as alternatives at the research gate | NOT STARTED; owner approved catalog inclusion 2026-11-26; no stack, provider, runtime or deployment approved |
 
 Scope and completion contract: [M23 identity](models/M23/README.md) and [single checklist](05-MODEL-BUILD-CHECKLIST.md). Keep business semantics independent of stack selection. No additional core technical family is implied.
+
+### Additional specialized products (M24–M33)
+| ID | Product and scope | Candidate implementation paths (not selected) | Reference for research | Status |
+|---|---|---|---|---|
+| **M24** | ERP — Enterprise Resource Planning — مدیریت مالی، انبار، خرید، فروش و منابع انسانی | ERPNext / Odoo; compare M07/M08 | [Reference](https://docs.frappe.io/erpnext) | NOT STARTED |
+| **M25** | SaaS — Subscription Web Application — نرم‌افزار اشتراکی چندکاربره، پلن‌ها و مدیریت اشتراک | M06/M21/M22 | [Reference](https://docs.stripe.com/billing) | NOT STARTED |
+| **M26** | Marketplace — Multi-vendor Platform — بازارگاه چندفروشنده، سفارش، کمیسیون و تسویه | M18/M19/M20/M06; Sharetribe as comparison | [Reference](https://www.sharetribe.com/docs/) | NOT STARTED |
+| **M27** | LMS — Learning Management System — دوره، استاد، فراگیر، آزمون و گواهینامه | Moodle / M07/M06 | [Reference](https://docs.moodle.org/) | NOT STARTED |
+| **M28** | Booking — Scheduling and Reservations — رزرو و نوبت‌دهی، تقویم و ظرفیت | Cal.com / M06/M21 | [Reference](https://cal.com/docs) | NOT STARTED |
+| **M29** | AI-powered Web Application — دستیار هوشمند، تحلیل اسناد و گردش‌کار AI | M06/M07/M21; model APIs subject to approval | [Reference](https://platform.openai.com/docs/overview) | NOT STARTED |
+| **M30** | Helpdesk — Customer Support Platform — تیکت، پاسخ، ارجاع و گزارش پشتیبانی | Zammad / M07/M06 | [Reference](https://docs.zammad.org/) | NOT STARTED |
+| **M31** | BI Dashboard — Business Intelligence — داشبورد تحلیل داده، گزارش و شاخص‌های تجاری | Streamlit / M05/M07 | [Reference](https://docs.streamlit.io/) | NOT STARTED |
+| **M32** | Community Platform — Forum and Social — پروفایل، گفتگو، گروه‌ها و مدیریت محتوا | Discourse / M06/M07 | [Reference](https://docs.discourse.org/) | NOT STARTED |
+| **M33** | GIS Web Application — نقشه تعاملی، داده مکانی و تحلیل جغرافیایی | GeoNode / M05/M07 | [Reference](https://docs.geonode.org/) | NOT STARTED |
+
+### Supplementary technical options (M34–M44)
+| ID | Method and scope | Candidate technology / relationship | Reference for research | Status |
+|---|---|---|---|---|
+| **M34** | ASP.NET Full-stack — وب‌اپ Full-stack مبتنی بر C# و .NET | ASP.NET Core / Blazor; alternative to M06–M08 | [Reference](https://learn.microsoft.com/aspnet/core/) | NOT STARTED |
+| **M35** | Hypermedia-driven Web — تعامل با HTML سرور و JavaScript کمتر | htmx / Hotwire; extends server-rendered family | [Reference](https://htmx.org/docs/) | NOT STARTED |
+| **M36** | Ruby Full-stack — ساخت برنامه تجاری با Ruby | Ruby on Rails; alternative to M07/M08 | [Reference](https://guides.rubyonrails.org/) | NOT STARTED |
+| **M37** | Real-time Server-driven Web — رابط تعاملی زنده با state سمت سرور | Phoenix LiveView | [Reference](https://hexdocs.pm/phoenix_live_view/) | NOT STARTED |
+| **M38** | Cross-platform Web App — وب‌اپ و اپلیکیشن چندسکویی | Flutter Web | [Reference](https://docs.flutter.dev/platform-integration/web) | NOT STARTED |
+| **M39** | Micro Frontend — رابط ماژولار با ماژول‌های مستقل | single-spa; only if independence proven | [Reference](https://single-spa.js.org/docs/getting-started-overview) | NOT STARTED |
+| **M40** | Offline / Local-first Web — داده محلی و همگام‌سازی پس از اتصال | RxDB / PowerSync; extends M05/M21/M22 | [Reference](https://rxdb.info/) | NOT STARTED |
+| **M41** | Collaborative Web App — ویرایش هم‌زمان چندکاربره و همگرایی داده | Yjs / CRDT; extends existing stacks | [Reference](https://docs.yjs.dev/) | NOT STARTED |
+| **M42** | Low-code Web Application — ساخت پنل و وب‌اپ با ابزار کم‌کد | Appsmith / Budibase | [Reference](https://docs.appsmith.com/) | NOT STARTED |
+| **M43** | Metadata-driven Application — برنامه تجاری مبتنی بر مدل داده و metadata | Frappe Framework | [Reference](https://docs.frappe.io/framework) | NOT STARTED |
+| **M44** | Python Data Application — وب‌اپ تحلیلی و رابط داده‌محور پایتون | Streamlit; technical recipe supporting M31 | [Reference](https://docs.streamlit.io/) | NOT STARTED |
+
+Registration approved; references are starting points, not completed vendor/license/quota validation. M25 SaaS is a subscription product/operating model, not a standalone architecture. M31 BI and M44 data app are product vs implementation; M24 ERP and M43 metadata-driven have the same relationship. M34/M36 are alternative full-stack recipes, M35/M39–M41 cross-cutting patterns. Prefer existing mechanisms; do not require all alternatives or promote patterns to independent core families without evidence. All selection, installation, design, spending and deployment remain gated.
 
 ## 2. Cross-cutting choices (NOT additional distinct construction models)
 | Layer | Options | How/when we use |
