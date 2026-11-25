@@ -8,6 +8,7 @@
 
 **Counts in THIS reviewed shortlist, not a market census:**
 - **6 engineering families**
+- **1 owner-approved specialized product entry (M23 — CRM, 2026-11-26)**; not a new core architecture. Total catalog entries: 23; technical recipes remain 22.
 - **22 concrete build recipes (M01–M22)**, several sharing components or alternative implementations; these are not 22 mutually exclusive global standards.
 - Family A 5 models, B 3, C 7, D 2, E 3, F 2. Total 5+3+7+2+3+2 = 22.
 - SaaS-only hosted builders (Shopify/Wix/Webflow), PWA packaging, drag-and-drop editing, MCP bridges, and deployment choices are **orthogonal choices**, not additional core architectures counted in 22.
@@ -61,6 +62,14 @@ Each row is a concrete starting composition. Score **Effort 1–5** is OUR compa
 |---|---|---|---|---:|---|
 | **M21** | Small full-stack site: static/Vite front + **Hono OR Django** API + **PocketBase OR SQLite** | real local HTTP I/O + durable state; separate admin if needed | login-less contact workflow, small data app, validated forms | 3–4 | [Hono](https://github.com/honojs/hono), [PocketBase](https://github.com/pocketbase/pocketbase); choose smallest; auth only if proven necessary |
 | **M22** | Static/Astro frontend + BaaS/serverless backend (e.g. Supabase self-host/cloud) | frontend on static host, database/Auth/functions external | multiuser app requiring cloud storage/service | 4–5 | [Supabase](https://github.com/supabase/supabase); provider plan/credit/egress, regional eligibility and credential/security **UNKNOWN: NOT ACTIVATED** |
+
+### Specialized product entries (separate from technical families A–F)
+
+| ID | Product model | Candidate implementation paths (not selected) | Status |
+|---|---|---|---|
+| **M23** | Professional CRM Web Application — مدیریت ارتباط با مشتریان | M06/M07/M08/M21/M22 may be compared; existing CRM platforms may be evaluated as alternatives at the research gate | NOT STARTED; owner approved catalog inclusion 2026-11-26; no stack, provider, runtime or deployment approved |
+
+Scope and completion contract: [M23 identity](models/M23/README.md) and [single checklist](05-MODEL-BUILD-CHECKLIST.md). Keep business semantics independent of stack selection. No additional core technical family is implied.
 
 ## 2. Cross-cutting choices (NOT additional distinct construction models)
 | Layer | Options | How/when we use |
