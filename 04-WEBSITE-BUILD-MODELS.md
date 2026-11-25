@@ -9,11 +9,11 @@
 **Counts in THIS reviewed shortlist, not a market census:**
 - **6 engineering families**
 - **11 owner-approved specialized product entries (M23–M33)**; not technical architectures.
-- **11 supplementary technical entries (M34–M44)**; alternative recipes and cross-cutting patterns, not 11 mutually exclusive architectures. Original 22 base recipes and six families remain unchanged. Total catalog entries: 44 (33 technical entries + 11 product entries). Owner approved catalog inclusion 2026-11-26; no implementation, stack or provider selection.
+- **11 supplementary technical entries (M34–M44)**; alternative recipes and cross-cutting patterns, not 11 mutually exclusive architectures. Original 22 base recipes and six families remain unchanged. The approved creative extension adds 16 technical/method entries (M45–M60) and 8 experience-oriented product entries (M61–M68). Total catalog entries: 68 (49 technical/method entries + 19 product entries); not 68 independent architectures. Owner approved catalog inclusion 2026-11-26; no implementation, stack or provider selection.
 - **22 concrete build recipes (M01–M22)**, several sharing components or alternative implementations; these are not 22 mutually exclusive global standards.
 - Family A 5 models, B 3, C 7, D 2, E 3, F 2. Total 5+3+7+2+3+2 = 22.
 - SaaS-only hosted builders (Shopify/Wix/Webflow), PWA packaging, drag-and-drop editing, MCP bridges, and deployment choices are **orthogonal choices**, not additional core architectures counted in 22.
-- Scope EXCLUDES high-cost 3D/game-engine/webgl scenes. Official code or downloads are *evidence of availability*, NOT proof of installed runtime, local compatibility, or active MCP connection.
+- The original M01–M22 research scope EXCLUDED high-cost 3D/game-engine/WebGL scenes; owner-approved M45–M68 now catalog these methods and product types without approving heavy implementation, hardware, providers or cost. The independent 09-self-marketing-website project and all prior 3D sources remain separate. Official code or downloads are *evidence of availability*, NOT proof of installed runtime, local compatibility, or active MCP connection.
 
 ## 1. Model/stack overview: 22 reviewed technical recipes
 Each row is a concrete starting composition. Score **Effort 1–5** is OUR comparative engineering estimate for a minimal working prototype (1 simplest, 5 most dependencies); it is not vendor performance/industry benchmark. **MCP path**: default is ChatGPT -> existing Bridgerator -> local files/CLI; 'WP/Grav MCP' is a separate **unconnected optional** server.
@@ -102,6 +102,40 @@ Scope and completion contract: [M23 identity](models/M23/README.md) and [single 
 | **M44** | Python Data Application — وب‌اپ تحلیلی و رابط داده‌محور پایتون | Streamlit; technical recipe supporting M31 | [Reference](https://docs.streamlit.io/) | NOT STARTED |
 
 Registration approved; references are starting points, not completed vendor/license/quota validation. M25 SaaS is a subscription product/operating model, not a standalone architecture. M31 BI and M44 data app are product vs implementation; M24 ERP and M43 metadata-driven have the same relationship. M34/M36 are alternative full-stack recipes, M35/M39–M41 cross-cutting patterns. Prefer existing mechanisms; do not require all alternatives or promote patterns to independent core families without evidence. All selection, installation, design, spending and deployment remain gated.
+
+### Creative, interactive and 3D technical/method entries (M45–M60)
+| ID | Method and scope | Candidate technologies (not selected) | Reference | Status |
+|---|---|---|---|---|
+| **M45** | CSS 3D Website — سه‌بعدی سبک با transform و perspective در CSS | CSS 3D transforms; progressive enhancement | [Research starting point](https://developer.mozilla.org/en-US/docs/Web/CSS/transform) | NOT STARTED |
+| **M46** | Interactive 2D Graphics Website — گرافیک دوبعدی تعاملی و انیمیشن بوم | Canvas 2D / PixiJS | [Research starting point](https://pixijs.com/) | NOT STARTED |
+| **M47** | Direct Three.js 3D Website — صحنه سه‌بعدی برنامه‌نویسی‌شده برای مرورگر | Three.js | [Research starting point](https://threejs.org/docs/) | NOT STARTED |
+| **M48** | React-based 3D Website — رندر سه‌بعدی در چرخه مؤلفه‌های React | React Three Fiber / Drei | [Research starting point](https://r3f.docs.pmnd.rs/) | NOT STARTED |
+| **M49** | Babylon.js 3D Engine Website — صحنه سه‌بعدی با امکانات موتور گرافیکی | Babylon.js | [Research starting point](https://doc.babylonjs.com/) | NOT STARTED |
+| **M50** | Direct WebGL / GLSL Website — رندر مستقیم GPU با shader | WebGL / GLSL | [Research starting point](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) | NOT STARTED |
+| **M51** | WebGPU / WGSL Website — پردازش گرافیکی نسل جدید و shader | WebGPU / WGSL | [Research starting point](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API) | NOT STARTED |
+| **M52** | Visual 3D Design-to-Web — طراحی بصری سه‌بعدی و انتشار یا خروجی وب | Spline; verify export rights and costs | [Research starting point](https://docs.spline.design/) | NOT STARTED |
+| **M53** | Browser-native Game Engine Website — تجربه تعاملی وب با موتور بازی مرورگری | PlayCanvas | [Research starting point](https://developer.playcanvas.com/) | NOT STARTED |
+| **M54** | Game Engine Web Export — ساخت با موتور بازی و خروجی مرورگر | Unity / Godot; select only one after review | [Research starting point](https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_web.html) | NOT STARTED |
+| **M55** | Scroll-driven Storytelling Website — روایت تعاملی وابسته به اسکرول | GSAP / ScrollTrigger | [Research starting point](https://gsap.com/docs/v3/Plugins/ScrollTrigger/) | NOT STARTED |
+| **M56** | Interactive Motion Website — موشن و انیمیشن تعاملی در صفحات وب | Rive / Lottie | [Research starting point](https://rive.app/docs/) | NOT STARTED |
+| **M57** | Hybrid DOM + 3D Website — ترکیب رابط HTML/CSS با صحنه گرافیکی | HTML/CSS + WebGL; M47–M51 as alternatives | [Research starting point](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) | NOT STARTED |
+| **M58** | 3D Product Viewer and Configuration Method — نمایش و پیکربندی محصول سه‌بعدی | model-viewer / glTF | [Research starting point](https://modelviewer.dev/) | NOT STARTED |
+| **M59** | WebXR / AR / VR Method — تعامل واقعیت افزوده و مجازی در مرورگر | WebXR / A-Frame | [Research starting point](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API) | NOT STARTED |
+| **M60** | Scan-based 3D Reconstruction for Web — نمایش محیط اسکن‌شده واقعی در وب | Gaussian Splatting / Photogrammetry | [Research starting point](https://github.com/graphdeco-inria/gaussian-splatting) | NOT STARTED |
+
+### Creative and experience-oriented product entries (M61–M68)
+| ID | Product and scope | Candidate implementation paths (not selected) | Reference | Status |
+|---|---|---|---|---|
+| **M61** | Immersive 3D Website — تجربه سه‌بعدی قابل پیمایش با تعامل و تغییر زاویه دید | Compare M47/M48/M49/M53/M57 | [Research starting point](https://threejs.org/docs/) | NOT STARTED |
+| **M62** | Cinematic Website — سایت سینمایی با نور، حرکت دوربین و روایت تصویری | Compare M47/M55/M56/M57 | [Research starting point](https://gsap.com/docs/v3/) | NOT STARTED |
+| **M63** | 3D Product Configurator — نمایش و شخصی‌سازی رنگ، جنس و قطعات محصول | Compare M47/M49/M58 | [Research starting point](https://modelviewer.dev/) | NOT STARTED |
+| **M64** | Virtual Showroom — نمایشگاه یا گالری مجازی قابل پیمایش | Compare M47/M49/M53/M57/M60 | [Research starting point](https://doc.babylonjs.com/) | NOT STARTED |
+| **M65** | Gamified Website — سایت دارای مکانیزم بازی، مأموریت و تعامل | Compare M46/M53/M54; avoid unnecessary engine | [Research starting point](https://developer.playcanvas.com/) | NOT STARTED |
+| **M66** | Generative Art Website — هنر مولد، ذرات، افکت و تغییرات زنده | Compare M46/M47/M50/M51 | [Research starting point](https://p5js.org/) | NOT STARTED |
+| **M67** | AR / VR Website Product — تجربه محصول یا محیط واقعیت افزوده/مجازی | Compare M59/M58/M49 | [Research starting point](https://aframe.io/docs/) | NOT STARTED |
+| **M68** | 360-degree Virtual Tour — تور مجازی املاک، گردشگری یا نمایشگاه با تصاویر پانوراما | Pannellum / Marzipano; compare M60 when needed | [Research starting point](https://pannellum.org/documentation/) | NOT STARTED |
+
+Owner approved catalog inclusion 2026-11-26. The 16 methods include alternative renderers, authoring tools, reusable UI/motion patterns and asset methods; the eight products are experiences rather than architectures. M47–M51 overlap at rendering layers; M57 combines existing approaches; M58/M63 and M59/M67 distinguish method from product. M60 is an asset/reconstruction path, not necessarily a standalone site stack. M68 may be implemented with ordinary panoramic images without 3D reconstruction. Reuse before adding a stack. At start gate verify official license/commercial rights (including assets and exports), free-first pricing/quota, actual device/browser capabilities, runtime and accessibility, reduced motion, input, loading and memory/GPU budget, fallback, failure/recovery and security. No stack, design, asset, installation, payment or deployment approved. Linked references are starting points, not completed license/cost verification. Prior independent 3D project ownership unchanged.
 
 ## 2. Cross-cutting choices (NOT additional distinct construction models)
 | Layer | Options | How/when we use |
